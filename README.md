@@ -1,16 +1,14 @@
-## Hi there 👋
+# <p align="center" >Hello It's **Giri Shankar** JAVA Dev </p>
 
-<!--
-**girivj/girivj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align ="right" alt="GIF" width="400" src="https://media.giphy.com/media/Vbn7PUTxaB6dVnVa2h/giphy.gif" />
+
+</br>
+## &nbsp; &nbsp; &nbsp; **About Me** 
+- 🌱 I’m currently learning React, Java 11.
+- 👯 I always like working in 🐧️**Linux** Environment.
+
+
