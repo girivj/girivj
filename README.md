@@ -1,24 +1,22 @@
 <h1 align="center">Hi there, I'm Giri Shankar 👋</h1>
-<h3 align="center">Final Year Student at KAHE</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Vbn7PUTxaB6dVnVa2h/giphy.gif" width="400" alt="coding gif" />
-</p>
-
-<p align="center">
-  <em>Web Development | UI/UX Design | Machine Learning | Data Analysis</em>
-</p>
-
 ---
 
 ### 🚀 About Me
 
-- 🎓 I'm a Final Year Student at **KAHE**.
-- 🌱 I’m currently learning **React** and **Java 11**.
-- 🐧 I love working in a **Linux** Environment.
-- 👯 I'm interested in collaborating on open source projects.
-- 💬 Ask me about **Web Development** and **UI/UX**.
+I am a passionate developer and cloud enthusiast focusing on **Cybersecurity** and **Cloud Computing**. I love building secure, scalable infrastructure and automating workflows.
 
+### 🛠️ Tech Stack
+* **Languages:** Python, SQL, Bash
+* **Cloud:** AWS (EC2, S3, Lambda), Linux Administration
+* **Tools:** Git, Docker, VS Code
+
+### 🔭 I’m currently working on...
+* Enhancing my knowledge in Cloud Security.
+* Building automation scripts with Python.
+
+### 🌱 I’m currently learning...
+* Advanced AWS Services & Architecture
+* Penetration Testing & Network Security
 ---
 
 ### 🛠️ Languages and Tools
